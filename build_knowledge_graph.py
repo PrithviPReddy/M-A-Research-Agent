@@ -16,13 +16,13 @@ load_dotenv()
 
 # OpenAI API Configuration
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-GENERATIVE_MODEL = "gpt-5-mini" # Or "gpt-3.5-turbo" for a faster, cheaper option
+GENERATIVE_MODEL = "gpt-5-mini" # Or any other one , as per your choice
 
 # Neo4j Database Configuration
 # These are the default values for a local Neo4j Desktop database
-NEO4J_URI = "bolt://172.28.64.1:7687"
+NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "12345678" # password 
+NEO4J_PASSWORD = "password" # password 
 
 # Path to your source data
 JSON_FILE_PATH = "scraped_articles.json"
