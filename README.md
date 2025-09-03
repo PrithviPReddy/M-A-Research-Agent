@@ -22,8 +22,10 @@ The system features an automated data pipeline that scrapes financial articles, 
     * **Q&A Chatbot**: A conversational agent that can synthesize information from multiple sources, provide predictive analysis, and cite its sources.
     * **Report Generator**: A tool to generate detailed, structured reports (e.g., executive summaries, risk analyses) on specific, user-selected articles.
 * **Advanced Prompt Engineering**: Specialized prompts designed to enable "analyst mode" for predictive questions, "Text-to-Cypher" for natural language graph queries, and structured report generation.
+* 
+* <img width="1596" height="768" alt="image" src="https://github.com/user-attachments/assets/30b01d73-4406-4d89-994f-450707399a62" />
 
-  <img width="1596" height="768" alt="image" src="https://github.com/user-attachments/assets/30b01d73-4406-4d89-994f-450707399a62" />
+  
 
 
 ---
