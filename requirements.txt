@@ -1,0 +1,17 @@
+
+requests
+beautifulsoup4
+pandas
+
+pinecone-client
+sentence-transformers
+langchain
+torch
+google-generativeai
+openai
+
+neo4j
+
+gradio
+
+python-dotenv
