@@ -121,7 +121,7 @@ def process_articles():
         return
 # Set the article number you want to start from (e.g., 380)
 # Remember that list indices start at 0, so article 380 is at index 379.
-    start_index = 91
+    start_index = 0 # or from where ever you want to start
 
     for i, article in enumerate(articles[start_index:], start=start_index):
         content = article.get("content")
